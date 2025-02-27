@@ -30,7 +30,7 @@
       </a>
   </p>
 
-📌 **Description:** A web-based auction platform where users can bid on items in real time. Features:  
+📌 **Description:** A small auction application where users can bid on items in real time. Features:  
 ✅ User authentication & role-based access  
 ✅ Live auction functionality with real-time updates  
 ✅ Secure bidding system with payment integration  
