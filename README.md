@@ -23,7 +23,7 @@
 ✅ Emergency alerts & volunteer call system  
 
 ### 🔹 [Auction System](https://github.com/vutrongnhannguyen/auction-system)  
-🔧 **Tech Stack:** C++  
+🔧 **Tech Stack:**  
 <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,github" />
