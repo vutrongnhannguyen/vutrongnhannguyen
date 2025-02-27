@@ -1,3 +1,5 @@
+<img src="project.png" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 🛜 My name is Nguyen Vu Trong Nhan or you can call me Tony<br>👨🏼‍🎓 I'm currently studying Information Technology at RMIT Vietnam<br>👨🏼‍💻 I want to be a professional Software Developer<br>
 
