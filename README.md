@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Nguyen Vu Trong Nhan or you can call me Tony<br>I'm currently studying Information Technology at RMIT Vietnam<br>I want to be a professional Software Developer<br>
+🛜 My name is Nguyen Vu Trong Nhan or you can call me Tony<br>👨🏼‍🎓 I'm currently studying Information Technology at RMIT Vietnam<br>👨🏼‍💻 I want to be a professional Software Developer<br>
 
 
 # 💻 Tech Stack:
