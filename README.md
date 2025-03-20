@@ -22,6 +22,17 @@
 ✅ Text-to-speech for real-time assistance  
 ✅ Emergency alerts & volunteer call system  
 
+### 🔹 [Kaggle House Price Prediction](https://github.com/vutrongnhannguyen/HousePredictionSystem)  
+🔧 **Tech Stack:**  
+<p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python" />
+      </a>
+  </p>
+
+📌 **Description:** EDA and Model Development Practice for Kaggle competition - Top 2.86%. 
+
+
 ### 🔹 [Auction System](https://github.com/vutrongnhannguyen/auction-system)  
 🔧 **Tech Stack:**  
 <p align="center">
